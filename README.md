@@ -404,12 +404,7 @@ Tailwind CSS - Styling framework
 
 And the amazing Bollywood film industry! 🎬
 
-📞 Contact & Support
 
-🐛 Bug Reports: Open an issue
-💡 Feature Requests: Start a discussion
-📧 Email: your.email@example.com
-🐦 Twitter: @yourusername
 
 
 <div align="center">
